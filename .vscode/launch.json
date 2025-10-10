@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sejar/chai backend/src/routes/src",
-      "program": "c:/Users/sejar/chai backend/src/routes/src/build/Debug/outDebug",
+      "cwd": "c:/Users/sejar/chai backend",
+      "program": "c:/Users/sejar/chai backend/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
